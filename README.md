@@ -1,1 +1,1 @@
-# Evangadi-Clone
+# gitPractice
